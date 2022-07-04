@@ -24,7 +24,7 @@ with a great talet still in progress of 3d modelling and is learing to code and 
 ### Desirée (me)
 
 I was born in italy, montepulciano the 2nd of july 2010, i grew up in england and sometimes visit italy for holidays.
-i love gun games, horror games, anime gamesect... and i want to make one! i also when im older want to be a game developer or software engineer, well, im not sure yet! i might even be a illustrator or a animator.
+i love gun games, horror games, anime gamesect... and i want to make one! i also when im older want to be a game developer or software engineer, well, im not sure yet! i might even be a illustrator or a animator. mostly got inspired by my big sister
 
 i know how to code using css, js, html, c++, and jQuery, to animate i use krita or csp (clip studio paint) and to draw i use the same!
 
