@@ -32,5 +32,7 @@ some links (will add more in the future) to my work is here!:
 
 *[design and animations (really basic and scruffy animation)](https://sites.google.com/view/my-art-and-animations/home)*
 
+*[a lil bit more about me)](https://www.khanacademy.org/computer-programming/facts-abt-me/5183445935374336)*
+
 --other--
 
