@@ -16,7 +16,7 @@
 
 #### His big dreams
 
-Born in 2010 15th of april 15th in India, Kankinada, and grew up in mumbai has big plans for the his future, has a great passion for horror and multiplayer games he himself wants to be a game developer\software engineer to create his own!
+Born in 2010 15th of April 15th in India, Kankinada, and grew up in Mumbai has big plans for the his future, has a great passion for horror and multiplayer games he himself wants to be a game developer\software engineer to create his own!
 with a great talet still in progress of 3d modelling and is learing to code and is very bright will be able to easily achive that!
 
 --other--  --will add photo of place we are from--
@@ -26,12 +26,12 @@ with a great talet still in progress of 3d modelling and is learing to code and 
 ### Desirée (Desi)<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4VSq5cysvLLMP-qn2GdUMuzs05c8IzzrIs7u7spbHNVwdgD19UfSvddMRUQgl2Z1G1M:https://www.visittuscany.com/shared/visittuscany/immagini/montepulciano-piazza-grande-blue-hour.jpg&usqp=CAU">
 
 
-I was born in italy, montepulciano the 2nd of july 2010, i grew up in england and sometimes visit italy for holidays.
-i love gun games, horror games, anime gamesect... and i want to make one! i also when im older want to be a game developer or software engineer, well, im not sure yet! i might even be a illustrator or a animator. mostly got inspired by my big sister
+I was born in Italy, Montepulciano the 2nd of July 2010, i grew up in England and sometimes visit Italy for holidays.
+i love gun games, horror games, anime gamesect... and i want to make one! I also when im older want to be a game developer or software engineer, well, im not sure yet! i might even be a illustrator or a animator. mostly got inspired by my big sister
 
 i know how to code using css, js, html, c++, and jQuery, to animate i use krita or csp (clip studio paint) and to draw i use the same!
 
-some links (will add more in the future) to my work is here!:
+Some links (will add more in the future) to my work is here!:
 
 *[design and animations (really basic and scruffy animation)](https://sites.google.com/view/my-art-and-animations/home)*
 
