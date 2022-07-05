@@ -11,17 +11,20 @@
 
 ### Sanjeev
 
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSbFfLVl0pLdBSEpm62s6l7EmZLrrRvZ37oz-bUbGZXR2xzX1ybapzxazjJVcqVNjsBA:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/District_Collector_Office_building_at_Kakinada.jpg/355px-District_Collector_Office_building_at_Kakinada.jpg&usqp=CAU">
+
 
 #### His big dreams
 
 Born in 2010 15th of april 15th in India, Kankinada, and grew up in mumbai has big plans for the his future, has a great passion for horror and multiplayer games he himself wants to be a game developer\software engineer to create his own!
-
 with a great talet still in progress of 3d modelling and is learing to code and is very bright will be able to easily achive that!
 
---other--
+--other--  --will add photo of place we are from--
 
 
-### Desirée (me)
+
+### Desirée (Desi)<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4VSq5cysvLLMP-qn2GdUMuzs05c8IzzrIs7u7spbHNVwdgD19UfSvddMRUQgl2Z1G1M:https://www.visittuscany.com/shared/visittuscany/immagini/montepulciano-piazza-grande-blue-hour.jpg&usqp=CAU">
+
 
 I was born in italy, montepulciano the 2nd of july 2010, i grew up in england and sometimes visit italy for holidays.
 i love gun games, horror games, anime gamesect... and i want to make one! i also when im older want to be a game developer or software engineer, well, im not sure yet! i might even be a illustrator or a animator. mostly got inspired by my big sister
@@ -34,5 +37,5 @@ some links (will add more in the future) to my work is here!:
 
 *[a lil bit more about me)](https://www.khanacademy.org/computer-programming/facts-abt-me/5183445935374336)*
 
---other--
+--other--    --will add photo of place we are from--
 
