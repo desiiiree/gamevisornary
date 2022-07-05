@@ -15,7 +15,7 @@ take in notice me who is coding this is not used to github and is still learning
 <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSbFfLVl0pLdBSEpm62s6l7EmZLrrRvZ37oz-bUbGZXR2xzX1ybapzxazjJVcqVNjsBA:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/District_Collector_Office_building_at_Kakinada.jpg/355px-District_Collector_Office_building_at_Kakinada.jpg&usqp=CAU">
 
 
-#### His big dreams
+#### His big dreams:
 
 Born in 2010 15th of April 15th in India, Kankinada, and grew up in Mumbai has big plans for the his future, has a great passion for horror and multiplayer games he himself wants to be a game developer\software engineer to create his own!
 with a great talet still in progress of 3d modelling and is learing to code and is very bright will be able to easily achive that!
