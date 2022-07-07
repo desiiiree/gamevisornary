@@ -22,6 +22,7 @@ with a great talet still in progress of 3d modelling and is learing to code and 
 
 --other--  --will add photo of place we are from--
 
+*[some of sanjeevs projects](https://sites.google.com/view/sdp-/home)*
 
 
 ### Desirée (Desi)<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4VSq5cysvLLMP-qn2GdUMuzs05c8IzzrIs7u7spbHNVwdgD19UfSvddMRUQgl2Z1G1M:https://www.visittuscany.com/shared/visittuscany/immagini/montepulciano-piazza-grande-blue-hour.jpg&usqp=CAU">
