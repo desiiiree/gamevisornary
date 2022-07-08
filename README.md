@@ -47,11 +47,12 @@ Some links (will add more in the future) to my work is here!:
 
 
 
-###Some coding we have learnt that we would like to show you:
+### Some coding we have learnt that we would like to show you:
 
 Sanjeev's teaching of 3D Modelling:
 What is 3D Modelling? 3D Modelling is when you design 3D objects on a electronic device. Here are some lessons I learnt from my journey for you to learn!
 
 Blender 3D Modelling:
 (https://www.blender.org/about/logo/)
-
+Blender is a very useful app to make 3D Modelling and here is some teachings I learnt.
+ *I will add some infromation laterr*
