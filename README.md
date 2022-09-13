@@ -1,4 +1,4 @@
-# gamevisionary.com
+#gamevisionary.com
 
 *The site that will show the journey of a bunch of kids that will improve and come from beginners\intermidiate to professional!
 take in notice me who is coding this is not used to github and is still learning how to use it, this is also just a wip!*
