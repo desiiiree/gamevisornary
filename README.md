@@ -53,7 +53,7 @@ Sanjeev's teaching of 3D Modelling:
 What is 3D Modelling? 3D Modelling is when you design 3D objects on a electronic device. Here are some lessons I learnt from my journey for you to learn!
 
 Blender 3D Modelling:
-(https://www.blender.org/about/logo/)
+(https://www.blender.org/)
 Blender is a very useful app to make 3D Modelling and here is some teachings I learnt.
 
 How to make a face?:
