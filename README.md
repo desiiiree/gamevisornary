@@ -18,7 +18,7 @@ take in notice me who is coding this is not used to github and is still learning
 #### His big dreams:
 
 Born in 2010 15th of April 15th in India, Kankinada, and grew up in Mumbai has big plans for the his future, has a great passion for horror and multiplayer games he himself wants to be a game developer\software engineer to create his own!
-with a great talet still in progress of 3d modelling and is learing to code and is very bright will be able to easily achive that!
+with a great talent still in progress of 3d modelling and is learing to code and is very bright will be able to easily achive that!
 
 --other--  --will add photo of place we are from--
 
