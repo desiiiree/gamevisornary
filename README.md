@@ -58,6 +58,6 @@ Blender is a very useful app to make 3D Modelling and here is some teachings I l
 
 How to make a face?:
 Its actually not that hard.
-
+https://www.youtube.com/watch?v=OXabahxO8cU
 
 
